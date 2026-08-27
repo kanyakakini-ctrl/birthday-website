@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "image": "photo1.jpg",
+    "caption": "Our Favorite Beginning",
+    "date": "14 Feb 2024",
+    "note": "Every journey starts with a single step, and every memory with you is pure gold. 💫"
+  },
+  {
+    "id": 2,
+    "image": "photo2.jpg",
+    "caption": "Sweet Moments & Laughter",
+    "date": "Endless Smiles 😊",
+    "note": "Remember this day? We laughed so hard our stomachs hurt! You always bring so much joy. 🌟"
+  },
+  {
+    "id": 3,
+    "image": "photo3.jpg",
+    "caption": "Unforgettable Adventures",
+    "date": "Pure Magic 🌿",
+    "note": "Life with you is never dull. Here's to all the unplanned adventures and great stories. 🌈"
+  },
+  {
+    "id": 4,
+    "image": "photo4.jpg",
+    "caption": "Brightest Smile in the Room",
+    "date": "Golden Hour ☀️",
+    "note": "Your positivity is contagious. Thank you for always lighting up the world around you. 🌸"
+  },
+  {
+    "id": 5,
+    "image": "photo5.jpg",
+    "caption": "To Many More Memories Ahead",
+    "date": "Forever & Always 💖",
+    "note": "May your coming year be overflowing with dreams coming true, good health, and big hugs! 🥂"
+  }
+]
