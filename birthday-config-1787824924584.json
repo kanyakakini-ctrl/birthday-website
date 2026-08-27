@@ -1,0 +1,113 @@
+{
+  "recipientName": "NAME_HERE",
+  "nickname": "Birthday Star ⭐",
+  "pin": "1234",
+  "unlockScreen": {
+    "title": "unlock",
+    "subtitle": "A special surprise is waiting for you ✨",
+    "hintText": "Enter the 4-digit secret key 🗝️ (Default: 1234)",
+    "photo": "/assets/photos/photo1.svg"
+  },
+  "surpriseScreen": {
+    "heading": "Hey there!",
+    "question": "I have little surprise for you.\nWanna see it? 💖",
+    "yesButtonText": "YES, OF COURSE! 🎉",
+    "noButtonText": "No thanks 🙈",
+    "noButtonResponses": [
+      "Are you sure? 🥺",
+      "Wrong button silly! 😜",
+      "Try clicking YES instead! ✨",
+      "Nice try, you can't say no! 🎁",
+      "Come on, just click YES! 💕",
+      "Nope, not allowed! 🚀",
+      "Resistance is futile! 🥰"
+    ]
+  },
+  "celebrationScreen": {
+    "birthdayTitle": "HAPPY BIRTHDAY",
+    "subheading": "Wishing you the most magical and joyful day filled with endless smiles! 🎂✨",
+    "mainPhoto": "/assets/photos/photo2.svg",
+    "ctaButtonText": "Open Memories 📸"
+  },
+  "memories": [
+    {
+      "id": 1,
+      "image": "/assets/photos/photo1.svg",
+      "caption": "Our Favorite Beginning",
+      "date": "A Magical Day ✨",
+      "note": "Every journey starts with a single step, and every memory with you is pure gold. 💫"
+    },
+    {
+      "id": 2,
+      "image": "/assets/photos/photo2.svg",
+      "caption": "Sweet Moments & Laughter",
+      "date": "Endless Smiles 😊",
+      "note": "Remember this day? We laughed so hard our stomachs hurt! You always bring so much joy. 🌟"
+    },
+    {
+      "id": 3,
+      "image": "/assets/photos/photo3.svg",
+      "caption": "Unforgettable Adventures",
+      "date": "Pure Magic 🌿",
+      "note": "Life with you is never dull. Here's to all the unplanned adventures and great stories. 🌈"
+    },
+    {
+      "id": 4,
+      "image": "/assets/photos/photo4.svg",
+      "caption": "Brightest Smile in the Room",
+      "date": "Golden Hour ☀️",
+      "note": "Your positivity is contagious. Thank you for always lighting up the world around you. 🌸"
+    },
+    {
+      "id": 5,
+      "image": "/assets/photos/photo5.svg",
+      "caption": "To Many More Memories Ahead",
+      "date": "Forever & Always 💖",
+      "note": "May your coming year be overflowing with dreams coming true, good health, and big hugs! 🥂"
+    }
+  ],
+  "giftsHeading": "select any gift",
+  "giftsSubheading": "Tap a gift box to unwrap your special surprises! 🎁",
+  "gifts": [
+    {
+      "id": 1,
+      "title": "Surprise Gift #1",
+      "boxLabel": "A Warm Hug",
+      "image": "/assets/gifts/gift1.svg",
+      "revealPhoto": "/assets/photos/photo3.svg",
+      "badge": "💖 Love Voucher",
+      "message": "GIFT_MESSAGE_1: Unlimited free hugs, warm cups of coffee, and someone who always has your back no matter what! 💕"
+    },
+    {
+      "id": 2,
+      "title": "Surprise Gift #2",
+      "boxLabel": "A Special Treat",
+      "image": "/assets/gifts/gift2.svg",
+      "revealPhoto": "/assets/photos/photo4.svg",
+      "badge": "🍰 Sweet Surprise",
+      "message": "GIFT_MESSAGE_2: An all-expenses-paid dinner & dessert date at your favorite restaurant of choice whenever you are free! 🍕🍦"
+    },
+    {
+      "id": 3,
+      "title": "Surprise Gift #3",
+      "boxLabel": "A Secret Wish",
+      "image": "/assets/gifts/gift3.svg",
+      "revealPhoto": "/assets/photos/photo5.svg",
+      "badge": "⭐ Golden Wish",
+      "message": "GIFT_MESSAGE_3: One redeemable 'Get Out of Any Chores / Free Favor' coupon anytime you wish! 🪄✨"
+    }
+  ],
+  "finalMessage": {
+    "heading": "A Letter For You 💌",
+    "subheading": "From the bottom of my heart...",
+    "photo": "/assets/photos/photo2.svg",
+    "content": "BIRTHDAY_MESSAGE_HERE\n\nDearest NAME_HERE,\n\nHappy, happy birthday! 🎉\n\nOn this special day, I just want to remind you of how truly incredible, kind, and inspiring you are. You make every day brighter with your kindness, humor, and beautiful smile.\n\nMay this new year of your life bring you unlimited happiness, unforgettable adventures, blooming success, and all the love you so richly deserve.\n\nThank you for being such an extraordinary part of my life. Keep shining brightly! ⭐\n\nWith all my love and biggest wishes,\nYour Biggest Fan 💖",
+    "signature": "With lots of love 💕",
+    "replayButtonText": "Replay Surprise 🔄"
+  },
+  "music": {
+    "audioUrl": "/assets/music/birthday.mp3",
+    "autoPlayPrompt": true,
+    "title": "Birthday Melody 🎵"
+  }
+}
